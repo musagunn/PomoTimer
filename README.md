@@ -10,6 +10,7 @@ PomoTimer, odaklanmayı artırmak ve zaman yönetimini iyileştirmek için geli�
 * **Modern Arayüz:** Kullanıcı dostu ve minimalist tasarım.
 * **State Management:** Context API ile verimli durum yönetimi.
 
+
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Framework:** React Native (Expo)
@@ -41,7 +42,11 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 
 ## 📱 Ekran Görüntüleri
 
-*(Buraya uygulamanın ekran görüntülerini veya GIF'ini ekleyeceğiz)*
+<img width="1080" height="1920" alt="ss1" src="https://github.com/user-attachments/assets/0ced1ace-26cf-43a7-9edb-e797ffd1a376" />
+<img width="1080" height="1920" alt="ss2" src="https://github.com/user-attachments/assets/29ecf9f2-5adf-4b5d-aa98-f85a3391c339" />
+<img width="1080" height="1920" alt="ss3" src="https://github.com/user-attachments/assets/83bc5722-84fc-429d-946b-ab0506471a4d" />
+<img width="1080" height="1920" alt="ss4" src="https://github.com/user-attachments/assets/f16d2f13-9ab2-47fe-9152-8f149ef0ca23" />
+
 
 ---
 Developed by Musa Gün
