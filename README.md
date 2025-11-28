@@ -24,7 +24,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 
 1.  Projeyi klonlayın:
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/PomoTimer.git](https://github.com/KULLANICI_ADIN/PomoTimer.git)
+    git clone [https://github.com/musagunn/PomoTimer.git](https://github.com/musagunn/PomoTimer.git)
     ```
 2.  Proje dizinine gidin:
     ```bash
