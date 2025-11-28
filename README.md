@@ -1,85 +1,47 @@
-# PomoTimer
+# 🍅 PomoTimer
 
-React Native ve Expo ile geliştirilmiş bir Pomodoro zamanlayıcı uygulaması.
+PomoTimer, odaklanmayı artırmak ve zaman yönetimini iyileştirmek için geliştirilmiş modern bir **Pomodoro** uygulamasıdır. **React Native** ve **Expo** kullanılarak geliştirilmiştir.
 
-## 🚀 Başlangıç
+## 🌟 Özellikler
 
-### Gereksinimler
-
-Bu projeyi çalıştırmadan önce aşağıdakilerin yüklü olması gerekir:
-
-- **Node.js** (v18 veya üzeri): [İndir](https://nodejs.org/)
-- **npm** veya **yarn**: Node.js ile birlikte gelir
-- **Expo Go** (Mobil cihazınızda): 
-  - [iOS için App Store](https://apps.apple.com/app/expo-go/id982107779)
-  - [Android için Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
-
-### Kurulum
-
-1. **Node.js'i yükleyin** (henüz yüklü değilse):
-   - https://nodejs.org/ adresinden indirin
-   - LTS (Long Term Support) versiyonunu seçin
-
-2. Proje dizininde bağımlılıkları yükleyin:
-```bash
-npm install
-```
-
-**Not**: Proje `react-native-svg` ve `@expo/vector-icons` kütüphanelerini kullanır. Bu bağımlılıklar `npm install` komutuyla otomatik olarak yüklenecektir.
-
-### Çalıştırma
-
-1. Geliştirme sunucusunu başlatın:
-```bash
-npm start
-```
-
-2. Telefonunuzda Expo Go uygulamasını açın
-
-3. QR kodu tarayın:
-   - **iOS**: Kamera uygulamasıyla QR kodu tarayın
-   - **Android**: Expo Go uygulaması içinden QR kodu tarayın
-
-## 📁 Proje Yapısı
-
-```
-PomoTimer/
-├── components/          # Yeniden kullanılabilir bileşenler
-│   └── Timer.js        # Zamanlayıcı bileşeni
-├── screens/            # Uygulama ekranları
-│   └── HomeScreen.js   # Ana ekran
-├── assets/             # Görsel varlıklar (iconlar, resimler)
-├── App.js              # Ana uygulama dosyası
-├── app.json            # Expo yapılandırması
-├── babel.config.js     # Babel yapılandırması
-└── package.json        # Proje bağımlılıkları
-```
+* **Özelleştirilebilir Zamanlayıcı:** Çalışma, kısa mola ve uzun mola sürelerini ayarlayabilme.
+* **Çoklu Dil Desteği (i18n):** Türkçe ve İngilizce dil seçenekleri.
+* **Sesli Uyarılar:** Süre bittiğinde kullanıcıyı uyaran bildirim sesleri.
+* **Modern Arayüz:** Kullanıcı dostu ve minimalist tasarım.
+* **State Management:** Context API ile verimli durum yönetimi.
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **React Native**: Mobil uygulama geliştirme
-- **Expo**: Geliştirme ve dağıtım platformu
-- **React**: UI kütüphanesi
+* **Framework:** React Native (Expo)
+* **Dil:** JavaScript (ES6+)
+* **Depolama:** AsyncStorage (Ayarların kaydedilmesi için)
+* **Navigasyon:** React Navigation
+* **Dil Desteği:** i18n-js
 
-## 📱 Özellikler
+## 🚀 Kurulum ve Çalıştırma
 
-- Pomodoro tekniği için 25 dakikalık zamanlayıcı
-- Başlat/Duraklat/Sıfırla kontrolü
-- Modern ve temiz kullanıcı arayüzü
+Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-## 🔜 Gelecek Özellikler
+1.  Projeyi klonlayın:
+    ```bash
+    git clone [https://github.com/KULLANICI_ADIN/PomoTimer.git](https://github.com/KULLANICI_ADIN/PomoTimer.git)
+    ```
+2.  Proje dizinine gidin:
+    ```bash
+    cd PomoTimer
+    ```
+3.  Gerekli paketleri yükleyin:
+    ```bash
+    npm install
+    ```
+4.  Uygulamayı başlatın:
+    ```bash
+    npx expo start
+    ```
 
-- Zamanlayıcı geri sayımı
-- Bildirimler
-- Özelleştirilebilir süre ayarları
-- İstatistikler ve geçmiş
-- Sesli uyarılar
+## 📱 Ekran Görüntüleri
 
-## 📝 Lisans
-
-MIT
+*(Buraya uygulamanın ekran görüntülerini veya GIF'ini ekleyeceğiz)*
 
 ---
-
-**Not**: Projeyi ilk kez çalıştırdığınızda, bağımlılıkların indirilmesi birkaç dakika sürebilir.
-
+Developed by **[Senin Adın]**
