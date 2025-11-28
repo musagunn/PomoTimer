@@ -44,4 +44,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 *(Buraya uygulamanın ekran görüntülerini veya GIF'ini ekleyeceğiz)*
 
 ---
-Developed by **[Senin Adın]**
+Developed by Musa Gün
